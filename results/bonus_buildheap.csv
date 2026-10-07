@@ -1,0 +1,17 @@
+input,method,n,time_ms,comparisons,moves
+random,n_inserts,100,0.0022,206,225
+random,buildHeap,100,0.0023,177,70
+random,n_inserts,1000,0.0241,2326,2344
+random,buildHeap,1000,0.0216,1900,741
+random,n_inserts,10000,0.2207,22753,29139
+random,buildHeap,10000,0.1154,18772,7424
+random,n_inserts,100000,1.4940,227857,258934
+random,buildHeap,100000,0.7915,187911,74165
+descending,n_inserts,100,0.0009,480,592
+descending,buildHeap,100,0.0005,190,96
+descending,n_inserts,1000,0.0156,7987,8995
+descending,buildHeap,1000,0.0029,1982,992
+descending,n_inserts,10000,0.1973,113631,129999
+descending,buildHeap,10000,0.0271,19982,9992
+descending,n_inserts,100000,6.5676,1468946,1600002
+descending,buildHeap,100000,0.2958,199978,99990
